@@ -1,4 +1,4 @@
-## This project is to create a basic HTML web page and write a code that appends a table to that web page using a dataset in the form of an array of JavaScript objects.
+## This project is to create a basic HTML web page and write code that appends a table to it. Dataset used, is in the form of an array of JavaScript objects.
 
 ## Technology/Framework used:
 * JavaScript
