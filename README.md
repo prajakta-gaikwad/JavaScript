@@ -4,9 +4,8 @@
 * JavaScript
 * D3.js
 
-## screenshot of web page - After appending the table:
+## screenshot of the web page - After appending table:
 ![first_page](first_page.png)
-<br>
-<hr>
-## screenshot of web page - After applying the filter:
+
+## screenshot of the web page - After applying filter:
 ![filter_page](filter_page.png)
